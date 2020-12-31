@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    height: 100%;
+    background-image: url(bg.jpg.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+div.cont{
+    position: relative;
+    margin: 2%;
+    float: right;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.473);
+    height: 90vh;
+    width:30vw
+}
+.cont img{
+    height: 14vh;
+    width: 10vw;
+    background-color: black;
+}
